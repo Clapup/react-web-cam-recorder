@@ -1,4 +1,5 @@
 # react-web-cam-recorder
+This is a clone of this package, but made some significant changes to work with nextjs.
 A lightweight simple react package for Web Cam recorder.
 
 <div align="center" style="width: 100%; background-color: white;">
